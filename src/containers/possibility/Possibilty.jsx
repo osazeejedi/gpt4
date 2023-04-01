@@ -1,8 +1,9 @@
 import React from 'react'
 import './possibility.css'
 
-export const Possibilty = () => {
+const Possibilty = () => {
   return (
     <div>Possibilty</div>
   )
 }
+export default Possibilty
